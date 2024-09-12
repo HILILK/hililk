@@ -6,7 +6,7 @@
 
 <p align="center">
 </p>
-
+<hr/>
 <h3 align="center">Languages and Tools:</h3>
 <div align="center" style="gap: 10%;">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" style="margin-right: 0.3%;" />
@@ -22,7 +22,7 @@
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" style="margin-right: 0.3%;" />
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 0.3%;" />
 </div>
-
+<hr/>
 
 <table align="center">
     <tr>
