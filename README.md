@@ -39,7 +39,7 @@
 
 
 <div align="center">
-    <h3 align="center">Github Stats</h3>
+    <h3 align="center">GitHub Stats</h3>
 
 
 <table align="center">
